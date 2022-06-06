@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="name" >
+<button id="name1" >hien thi ten</button>
+<p id="demo">ngo trong hieu</p>
+</body>
+</html>
+<script>function nhapTen(){
+    let name = document.getElementById("name").value;
+    document.getElementById("demo").innerText = "Ho va ten la: " + name;
+}
+document.getElementById("name1").addEventListener("click", nhapTen);</script>
