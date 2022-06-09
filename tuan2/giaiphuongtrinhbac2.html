@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+</html>
+<script>
+    let a1=prompt("a");
+    let a=parseInt(a1);
+    let b1=prompt("b")
+    let b=parseInt(b1)
+    let c1=prompt("c")
+    let c=parseInt(c1)
+    let D=Math.sqrt(b*b-4*a*c)
+    let e,f,x;
+    if (D>0){
+        e=((-b+D)/(2*a))
+        f=((-b-D)/(2*a))
+        alert('phương trình 2 nghiệm'+e+f)
+    }else
+        if (D==0){
+            x=-b/(2*a)
+            alert('phương trình có nghiệm kép'+x)
+    }else if(D<0){
+        alert('phương trình vô nghiệm')
+    }
+
+</script>
