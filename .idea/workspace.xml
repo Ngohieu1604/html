@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37f75515-3ba6-47df-b40b-16b27d28b3f1" name="Changes" comment="abc">
+      <change afterPath="$PROJECT_DIR$/doyouloveme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan2/chisocannang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan2/vonglap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan2/vonglap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan2/vonglapwhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vong lap 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hieu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="29xLIbQVx6g1HbcUsmRpFe4nc5q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Desktop/hieu&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\hieu\tuan2" />
+      <recent name="C:\Users\LENOVO\Desktop\hieu\tuan 1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.sdtt.js">
+    <configuration name="baitap 1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hieu/tuan2/baitap 1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="baitap1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="baitap1.js" working-dir="$PROJECT_DIR$/tuan2">
+      <method v="2" />
+    </configuration>
+    <configuration name="sdtt.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="sdtt.js" working-dir="$PROJECT_DIR$/tuan2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.sdtt.js" />
+        <item itemvalue="JavaScript Debug.baitap 1.html" />
+        <item itemvalue="Node.js.baitap1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37f75515-3ba6-47df-b40b-16b27d28b3f1" name="Changes" comment="" />
+      <created>1654049716319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654049716319</updated>
+      <workItem from="1654049717370" duration="348000" />
+      <workItem from="1654057420194" duration="17000" />
+      <workItem from="1654064960333" duration="3000" />
+      <workItem from="1654074794504" duration="16000" />
+      <workItem from="1654077837248" duration="11000" />
+      <workItem from="1654131658801" duration="303000" />
+      <workItem from="1654135051470" duration="2514000" />
+      <workItem from="1654151400372" duration="8004000" />
+      <workItem from="1654159596485" duration="1096000" />
+      <workItem from="1654219813526" duration="17468000" />
+      <workItem from="1654326199877" duration="117000" />
+      <workItem from="1654416353988" duration="546000" />
+      <workItem from="1654430917301" duration="605000" />
+      <workItem from="1654432538947" duration="1411000" />
+      <workItem from="1654435593922" duration="168000" />
+      <workItem from="1654438012573" duration="594000" />
+      <workItem from="1654479847005" duration="24000" />
+      <workItem from="1654479908060" duration="30000" />
+      <workItem from="1654479963418" duration="32000" />
+      <workItem from="1654484139713" duration="173000" />
+      <workItem from="1654485358010" duration="734000" />
+      <workItem from="1654502198910" duration="75000" />
+      <workItem from="1654502454018" duration="33000" />
+      <workItem from="1654508520171" duration="160000" />
+      <workItem from="1654508719466" duration="1026000" />
+      <workItem from="1654520853382" duration="3008000" />
+      <workItem from="1654524536184" duration="14000" />
+      <workItem from="1654570231429" duration="2319000" />
+      <workItem from="1654572631691" duration="23000" />
+      <workItem from="1654572676579" duration="32000" />
+      <workItem from="1654572778671" duration="13942000" />
+      <workItem from="1654612624061" duration="727000" />
+      <workItem from="1654613700853" duration="754000" />
+      <workItem from="1654655528619" duration="4424000" />
+      <workItem from="1654660702129" duration="2225000" />
+      <workItem from="1654669956168" duration="454000" />
+      <workItem from="1654670514454" duration="7054000" />
+      <workItem from="1654735859687" duration="4734000" />
+      <workItem from="1654742868812" duration="5206000" />
+      <workItem from="1654756683177" duration="1459000" />
+      <workItem from="1654758181326" duration="1078000" />
+      <workItem from="1654761071696" duration="1033000" />
+      <workItem from="1654762155987" duration="1140000" />
+      <workItem from="1654763332941" duration="2514000" />
+      <workItem from="1654778999001" duration="149000" />
+      <workItem from="1654779208343" duration="4636000" />
+      <workItem from="1654785029600" duration="11000" />
+      <workItem from="1654824739654" duration="1846000" />
+      <workItem from="1654829454939" duration="3787000" />
+      <workItem from="1654833330783" duration="2306000" />
+    </task>
+    <task id="LOCAL-00001" summary="abc">
+      <created>1654159480143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654159480143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="abc" />
+  </component>
+</project>
