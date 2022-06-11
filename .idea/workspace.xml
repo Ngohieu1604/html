@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f75515-3ba6-47df-b40b-16b27d28b3f1" name="Changes" comment="abc">
-      <change afterPath="$PROJECT_DIR$/doyouloveme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan2/chisocannang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan2/vonglap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan2/vonglap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan2/vonglapwhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vong lap 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hieu.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forlong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan2/vonglap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +141,7 @@
       <workItem from="1654824739654" duration="1846000" />
       <workItem from="1654829454939" duration="3787000" />
       <workItem from="1654833330783" duration="2306000" />
+      <workItem from="1654843144969" duration="8078000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1654159480143</created>

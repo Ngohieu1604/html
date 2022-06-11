@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+<script>
+    let kito;
+    kito="<table border='1' width='300' cellspacing='0' cellpadding='15'>";
+    for (let i = 1; i <=12 ; i++) {
+        kito+="<tr>";
+        for (let j = 1; j <=12 ; j++) {
+            kito+="<td>"+i+"x"+j+"="+i*j+"</td>";
+        }
+        kito+="</tr>";
+    }kito+="</table>";
+    document.write(kito);
+    console.log(kito);
+    alert("bảng cửu chương");
+</script>
+</html>
