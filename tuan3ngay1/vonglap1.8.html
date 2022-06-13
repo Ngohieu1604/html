@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="batdau()">Bắt đầu</button>
+</body>
+</html>
+<script>
+    function batdau() {
+        let a = +prompt("Số bạn muốn đoán trong khoảng lớn nhất là bao nhiêu?")
+        let b = Math.floor(Math.random() * a);
+        console.log(b);
+        let c = +prompt ("Nhập số bạn đoán");
+        let count = 0;
+        while (c !== b) {
+            count++;
+            if (count == 5) {
+                alert("Bạn hết số lần đoán")
+                break;
+            } else if (c < b) {
+                alert("Số bạn đoán bé hơn");
+            } else {
+                alert ("Số bạn đoán lớn hơn")
+            }
+            c = prompt ("Nhập số bạn đoán");
+        }
+        if (count == 5) {
+            document.write("Bạn hết số lần đoán")
+        } else {
+            document.write("Bạn đã đoán đúng rồi. Chúc mừng bạn!")
+        }
+    }
+</script>
