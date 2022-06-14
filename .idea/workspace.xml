@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f75515-3ba6-47df-b40b-16b27d28b3f1" name="Changes" comment="abc">
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay1/vonglap2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay2/daonguocphantutrongmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay2/thaotacmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay2/timgiatrilonnhatrongmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay2/timgiatritrongmang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,24 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/hieu",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO/Desktop/minitest&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LENOVO\Desktop\hieu\tuan3ngay1" />
@@ -159,7 +154,13 @@
       <workItem from="1655082274365" duration="11000" />
       <workItem from="1655083546114" duration="923000" />
       <workItem from="1655085005383" duration="126000" />
-      <workItem from="1655088772258" duration="11393000" />
+      <workItem from="1655088772258" duration="11553000" />
+      <workItem from="1655107979140" duration="575000" />
+      <workItem from="1655108972414" duration="7000" />
+      <workItem from="1655109165749" duration="17000" />
+      <workItem from="1655111429480" duration="593000" />
+      <workItem from="1655134191559" duration="179000" />
+      <workItem from="1655174988309" duration="5363000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1654159480143</created>
