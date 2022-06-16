@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+</html>
+<script>
+    let a=new Array(10)
+    for (let i = 0; i <a.length ; i++) {
+        a[i]=parseInt(Math.random()*10)
+    }  console.log(a)
+    let V = +prompt("Nhập số của bạn vào")
+    V = Number(V)
+    let index = false
+    for (let i = 0; i < a.length; i++) {
+        if (V == a[i]){
+            index= true
+        }
+    }
+    if (index==1){
+        document.write("V thuộc a")
+    }
+    else {
+        document.write("V không thuộc a")
+    }
+
+</script>

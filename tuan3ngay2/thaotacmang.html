@@ -3,33 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <style>
-        body{padding-top:50px}
-    </style>
 </head>
 <body>
-<input type="text" id="txtValue">
-<input type="button" id="btnAdd" value="Add" onclick="add_element_to_array();">
-<input type="button" id="btnDisplay" value="Display" onclick="display_array();">
+<input type="number" id="giatri">
+<input type="button" id="Add" value="bấm" onclick="layphantu();">
+<input type="button" id="Display" value="in" onclick="inphantu();">
 <div id="result"></div>
+<div id="b"></div>
 </body>
 </html>
 <script>
     let x = 0;
     let array = Array();
-    function add_element_to_array() {
-        array[x] = document.getElementById("txtValue").value;
-        alert("Element: " + array[x] + " Added at index " + x);
+    function layphantu() {
+        array[x] =parseInt(document.getElementById("giatri").value);
+        alert("phần tử: " + array[x] + " hàng " + x);
         x++;
-        document.getElementById("txtValue").value = "";
+        document.getElementById("giatri").value = "";
     }
-    function display_array() {
-        let e = "<hr/>";
+    function inphantu() {
+        let d = "<hr/>";
         for (let i = 0; i < array.length; i++) {
-            e += "Element " + i + " = " + array[i] + "<br/>";
+            d += "phần tử " + i + " = " + array[i] + "<br/>";
         }
-        document.getElementById("result").innerHTML = e;
+        document.getElementById("result").innerHTML = d;
+        let c =0;
+        for (let i = 0; i < array.length; i++) {
+            c +=array[i]
+        }
+        document.getElementById("b").innerText="tổng là:"+c
     }
-
     console.log(x)
 </script>

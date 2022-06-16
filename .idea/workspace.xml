@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f75515-3ba6-47df-b40b-16b27d28b3f1" name="Changes" comment="abc">
-      <change afterPath="$PROJECT_DIR$/tuan3ngay2/daonguocphantutrongmang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay2/thaotacmang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay2/timgiatrilonnhatrongmang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuan3ngay2/timgiatritrongmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentap1.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentap1.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentap1.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentap2.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang01.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang1.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang1.8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang1.9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang2.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang2.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuan3ngay3/luyentapmang3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuan3ngay2/thaotacmang.html" beforeDir="false" afterPath="$PROJECT_DIR$/tuan3ngay2/thaotacmang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +172,14 @@
       <workItem from="1655111429480" duration="593000" />
       <workItem from="1655134191559" duration="179000" />
       <workItem from="1655174988309" duration="5363000" />
+      <workItem from="1655188863096" duration="3662000" />
+      <workItem from="1655193565129" duration="5010000" />
+      <workItem from="1655256279977" duration="1779000" />
+      <workItem from="1655261115446" duration="12830000" />
+      <workItem from="1655280551800" duration="249000" />
+      <workItem from="1655280888807" duration="2768000" />
+      <workItem from="1655284223925" duration="1234000" />
+      <workItem from="1655340943525" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1654159480143</created>

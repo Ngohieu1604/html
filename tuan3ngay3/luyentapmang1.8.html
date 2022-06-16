@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+</html>
+<script>
+    let number = new Array(10);
+    for (let i = 0; i <number.length ; i++) {
+        number[i]=parseInt(Math.random()*100)
+    }
+    console.log(number);
+    document.write(number+"<br>");
+    let number1=number.sort((a,b)=>b-a)
+    console.log(number1);
+    document.write(number1)
+</script>
